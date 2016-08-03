@@ -1,0 +1,2 @@
+# dl-java
+This Java library contains some services for retrieving and storing references and clusters from and to a data base MongoDB. Likewise, this library has the definitions of entities of the domain of a digital library. Here an entity can be a bibliographic citation, a cluster, or a reference.
