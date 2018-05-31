@@ -16,7 +16,7 @@ import com.cgomez.exception.DLBusinessServiceException;
 import com.cgomez.exception.DLDatabaseException;
 import com.cgomez.exception.DLDuplicateKeyException;
 import com.cgomez.exception.DLObjectIdException;
-import com.cgomez.ml.distance.impl.JaccardDistance;
+import com.cgomez.ml.measure.distance.impl.JaccardDistance;
 import com.cgomez.model.bibliography.BibliographicCitationDBLP;
 import com.cgomez.service.AbstractService;
 import com.cgomez.service.IBibliographicCitationDBLPService;
